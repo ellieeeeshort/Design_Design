@@ -1,4 +1,26 @@
+body {
+    background-color: white;
+}
+
+div {
+    background: linear-gradient(to bottom, #00ffcc 0%, #cc66ff 100%);
+}
+
 h1 {
   font-family: 'Montserrat', sans-serif;
-  color: red  
-}    
+  color: black;
+  font-style: bold;
+}
+
+h3 {
+  color: blue;
+  font-family: Montserrat;
+  font-style: light;
+}
+
+button {
+  background-color: black;
+  color: white;
+  font-family: Montserrat;
+  font-style: oblique;
+}
