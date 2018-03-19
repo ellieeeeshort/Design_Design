@@ -74,6 +74,10 @@ h3 {
     background-color: #FBCCA5;
 }
 
+div.a {
+    text-align: center;
+}
+
 function myMap() {
     var mapOptions = {
         center: new google.maps.LatLng(51.5, -0.12),
